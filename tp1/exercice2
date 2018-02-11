@@ -1,0 +1,12 @@
+1. Les includes permettent de lier des bibliothèques
+2. 
+<SDL/SDL.h>
+<GL/gl.h>
+<GL/glu.h>
+
+3. Grâce à des fonctions
+
+4. Les clics sont détectés
+
+5. Elle permet d'ouvrir une fenêtre graphique et d'en définir les paramètres
+
